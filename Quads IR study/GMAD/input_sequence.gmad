@@ -1,0 +1,9 @@
+! Wed, 08 Sep 2021 09:52:26 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! LATTICE SEQUENCE DEFINITION
+
+l0: line = (uDRIFT50, uDRIFT_Q0, uDRIFT30_0, uBEND_QY, uDRIFT20,
+	uBEND_QX, uDRIFT30_1, BEND_0, dDRIFT30_0, dBEND_QX, dDRIFT20,
+	dBEND_QY, dDRIFT30_1, dDRIFT_Q0, dDRIFT50, COL_END_0);
+lattice: line = (l0);
+use, period=lattice;

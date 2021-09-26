@@ -1,0 +1,8 @@
+! Fri, 27 Aug 2021 17:52:53 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! COMPONENT DEFINITION
+
+DRIFT_0: drift, l=5;
+BEND_0: sbend, angle=0.0244, l=20;
+DRIFT_1: drift, l=4.92;
+COL_0: rcol, horizontalWidth=0.233792, l=0.08, material="Pb", offsetX=0.121896, xsize=0.02, ysize=0.02;

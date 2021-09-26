@@ -1,0 +1,6 @@
+! Sun, 22 Aug 2021 19:41:04 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! OPTIONS DEFINITION
+
+option,	physicsList="em",
+	stopSecondaries=1;

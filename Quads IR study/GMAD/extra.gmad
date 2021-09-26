@@ -1,0 +1,3 @@
+COL_END_1: rcol, horizontalWidth=0.21191000000000002, l=0.021, material="Pb", xsize=0.0, ysize=0.0;
+ COL_END_2: rcol, horizontalWidth=0.21191000000000002, l=0.021, material="Pb", xsize=0.0, ysize=0.0;
+ COL_BEND_1: rcol, horizontalWidth=0.048, l=0, material="Pb", xsize=0.0, ysize=0.0;

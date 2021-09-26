@@ -1,0 +1,4 @@
+SimpleHistogram1D Event. E_photons_dDRIFT50   {100}  {0:0.004}  dDRIFT50.energy*1000  dDRIFT50.partID==22&dDRIFT50.zp>0
+SimpleHistogram1D Event. E_photons_uDRIFT30_1   {100}  {0:0.004}  uDRIFT30_1.energy*1000  uDRIFT30_1.partID==22&uDRIFT30_1.zp>0
+SimpleHistogram1D Event. E_photons_COL_END_0   {100}  {0:0.004}  COL_END_0.energy*1000  COL_END_0.partID==22&COL_END_0.zp>0
+SimpleHistogram1D Event. E_photons_COL_BEND_0   {100}  {0:0.004}  COL_BEND_0.energy*100  COL_BEND_0.partID==22&COL_BEND_0.zp>0

@@ -1,0 +1,12 @@
+! Sun, 22 Aug 2021 19:41:04 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! BEAM DEFINITION
+
+beam,	distrType="gauss",
+	energy=0.0003*GeV, 
+	particle="gamma", 
+	sigmaE=0.01, 
+	sigmaX=10*um, 
+	sigmaXp=0, 
+	sigmaY=10*um, 
+	sigmaYp=0;

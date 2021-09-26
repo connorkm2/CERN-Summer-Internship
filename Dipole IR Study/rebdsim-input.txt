@@ -1,0 +1,8 @@
+SimpleHistogram1D Event. NPhotons_DRIFT_1_cuts_1 {100} {0:0.8} DRIFT_1.x DRIFT_1.partID==22&DRIFT_1.zp>=0&DRIFT_1.x>=0.005&DRIFT_1.x<=0.101896
+SimpleHistogram1D Event. NPhotons_DRIFT_1_cuts_2 {100} {0:0.8} DRIFT_1.x DRIFT_1.partID==22&DRIFT_1.zp>=0&DRIFT_1.x>=0.141896
+SimpleHistogram1D Event. NPhotons_COL_0_cuts_1 {100} {0:0.8} COL_0.x COL_0.partID==22&COL_0.zp>=0&COL_0.x>=0.005&COL_0.x<=0.101896
+SimpleHistogram1D Event. NPhotons_COL_0_cuts_2 {100} {0:0.8} COL_0.x COL_0.partID==22&COL_0.zp>=0&COL_0.x>=0.141896
+SimpleHistogram1D Event. NPhotons_eAper {100} {0:0.8} DRIFT_1.x DRIFT_1.partID==22&DRIFT_1.zp>=0&DRIFT_1.x<=0.005&DRIFT_1.x>=-0.005
+SimpleHistogram1D Event. NPhotons_pAper {100} {0:0.8} DRIFT_1.x DRIFT_1.partID==22&DRIFT_1.zp>=0&DRIFT_1.x>=0.101896&DRIFT_1.x>=0.141896
+SimpleHistogram1D Event. NPhotons_DRIFT_1_total {{100}} {{0:0.8}} DRIFT_1.x DRIFT_1.partID==22
+SimpleHistogram1D Event. NPhotons_DRIFT_1_zp {{100}} {{0:0.8}} DRIFT_1.x DRIFT_1.partID==22&DRIFT_1.zp>=0
