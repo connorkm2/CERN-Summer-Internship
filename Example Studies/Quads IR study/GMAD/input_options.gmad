@@ -1,0 +1,16 @@
+! Wed, 08 Sep 2021 09:52:26 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! OPTIONS DEFINITION
+
+option,	magnetGeometryType="none",
+	preprocessGDML=0, 
+	physicsList="synch_rad em", 
+	hStyle=1, 
+	beampipeMaterial="Cu", 
+	apertureType="elliptical", 
+	aper1=0.5, 
+	aper2=0.3, 
+	horizontalWidth=1.05, 
+	worldMaterial="vacuum", 
+	maximumStepLength=0.1, 
+	integratorSet="geant4";

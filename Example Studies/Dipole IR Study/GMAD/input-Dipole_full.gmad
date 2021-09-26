@@ -1,0 +1,15 @@
+! Fri, 27 Aug 2021 17:52:53 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! Number of Elements:	4
+! Total length:		30.0m
+
+include material_Concretes.gmad;
+include extra-Dipole_full.gmad;
+include input-Dipole_full_components.gmad;
+include input-Dipole_full_sequence.gmad;
+include input-Dipole_full_beam.gmad;
+include input-Dipole_full_options.gmad;
+include input-Dipole_full_objects.gmad;
+
+
+sample, all;

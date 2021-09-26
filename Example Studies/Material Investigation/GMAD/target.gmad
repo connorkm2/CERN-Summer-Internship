@@ -1,0 +1,13 @@
+! Sun, 22 Aug 2021 19:41:04 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! Number of Elements:	3
+! Total length:		0.8m
+
+include bariteConcrete.gmad;
+include target_components.gmad;
+include target_sequence.gmad;
+include target_beam.gmad;
+include target_options.gmad;
+
+
+sample, all;

@@ -1,0 +1,7 @@
+! Sun, 22 Aug 2021 19:41:04 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! COMPONENT DEFINITION
+
+d1: drift, l=0.1;
+target: rcol, l=0.2, material="steelMagnetite", xsize=0, ysize=0;
+airCylinder_1: drift, aper1=0.4, apertureType="circularVacuum", l=0.5;

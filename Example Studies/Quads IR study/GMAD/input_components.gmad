@@ -1,0 +1,20 @@
+! Wed, 08 Sep 2021 09:52:26 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! COMPONENT DEFINITION
+
+uDRIFT50: drift, l=0.5;
+uDRIFT_Q0: drift, l=1.871978;
+uDRIFT30_0: drift, l=0.3;
+uBEND_QY: sbend, angle=0.002072436, k1=-0.1101369007146035, l=2.1771258;
+uDRIFT20: drift, l=0.2;
+uBEND_QX: sbend, angle=0.002072436, k1=0.1806817214281517, l=2.1771258;
+uDRIFT30_1: drift, l=0.3;
+BEND_0: sbend, angle=0.014947956, l=15.70306;
+dDRIFT30_0: drift, l=0.3;
+dBEND_QX: sbend, angle=0.002072436, k1=0.1806817214281517, l=2.1771258;
+dDRIFT20: drift, l=0.2;
+dBEND_QY: sbend, angle=0.002072436, k1=-0.1101369007146035, l=2.1771258;
+dDRIFT30_1: drift, l=0.3;
+dDRIFT_Q0: drift, l=1.871978;
+dDRIFT50: drift, l=0.479;
+COL_END_0: rcol, horizontalWidth=0.21191000000000002, l=0.021, material="Pb", offsetX=0.106105, xsize=0.02, ysize=0.02;

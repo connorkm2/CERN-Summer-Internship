@@ -1,0 +1,7 @@
+! Sun, 22 Aug 2021 19:41:04 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! LATTICE SEQUENCE DEFINITION
+
+l0: line = (d1, target, airCylinder_1);
+lattice: line = (l0);
+use, period=lattice;

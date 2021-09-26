@@ -1,0 +1,15 @@
+! Sat, 28 Aug 2021 17:06:28 +0000
+! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
+! Number of Elements:	3
+! Total length:		14.999999999999998m
+
+include material_Concretes.gmad;
+include extra-Dipole_half.gmad;
+include input-Dipole_half_components.gmad;
+include input-Dipole_half_sequence.gmad;
+include input-Dipole_half_beam.gmad;
+include input-Dipole_half_options.gmad;
+include input-Dipole_half_objects.gmad;
+
+
+sample, all;
