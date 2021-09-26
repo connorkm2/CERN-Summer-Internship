@@ -1,7 +1,0 @@
-bariteConcrete : matdef, density=3.35,
-               		 components=["H","O", "Mg", "Al", "Si", "S", "Ca", "Fe", "Ba"], 
-			 componentsFractions = {0.003585, 0.311622, 0.001195, 0.004183, 0.010457, 0.107858, 0.050194, 0.047505, 0.463400};
-
-steelMagnetite : matdef, density=5.11,
-               		 components=["H","O", "Mg", "Al", "Si", "P", "S", "Ca", "Mn", "Fe"], 
-			 componentsFractions = {0.005088, 0.1569472, 0.0056752, 0.0064579, 0.0266144, 0.000783, 0.0005871, 0.0393346, 0.0005871, 0.7571429};
