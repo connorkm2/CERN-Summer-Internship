@@ -1,7 +1,0 @@
-! Fri, 27 Aug 2021 17:52:53 +0000
-! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
-! LATTICE SEQUENCE DEFINITION
-
-l0: line = (DRIFT_0, BEND_0, DRIFT_1, COL_0);
-lattice: line = (l0);
-use, period=lattice;

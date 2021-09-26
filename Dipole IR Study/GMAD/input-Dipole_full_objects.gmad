@@ -1,5 +1,0 @@
-! Fri, 27 Aug 2021 17:52:53 +0000
-! pybdsim.Builder Lattice, using pybdsim version 2.2.0 
-! OBJECTS DEFINITION
-
-COL_1_p: placement, bdsimElement="COL_1", referenceElement="COL_0", x=0.355688;
